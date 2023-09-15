@@ -1,4 +1,4 @@
-# project made using streamlit
+# project made using streamlit and pandas 
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
